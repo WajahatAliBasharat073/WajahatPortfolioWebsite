@@ -1,4 +1,1 @@
-[EditionID]
-Professional
-[Channel]
-Retail
+## My Portfolio
